@@ -33,7 +33,7 @@ jobs:
         run: pnpm install
 
       - name: Build
-        run: pnpm run build --base="/${{ github.event.repository.name }}"
+        run: pnpm run build 
 
       - name: Setup 404 page
         run: cp dist/index.html dist/404.html
