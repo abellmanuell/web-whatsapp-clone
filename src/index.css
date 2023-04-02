@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .bg-gradient-sharp {
+    background: linear-gradient(
+      to bottom,
+      rgb(23, 163, 74) 40%,
+      rgb(229, 229, 229) 40%
+    );
+  }
+}
