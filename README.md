@@ -11,5 +11,6 @@ Install pnpm (npm install pnpm): Pnpm serve as the package manager.
 ### Contributors Guide
 
 We invite the community to submit GitHub issues and pull requests for suggestions on improving the Whatsapp Web Application Clone. It's an Open Source project. You are free to pull and contribute to the project.
+
 -Create a new branch before you commit.
 -Clearly state your adjustment.
